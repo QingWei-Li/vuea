@@ -1,6 +1,6 @@
 {
   "name": "vuea",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "🍔 Easy to drop or replace specified key in an array.",
   "main": "dist/vuea.js",
   "jsnext:main": "index.js",
