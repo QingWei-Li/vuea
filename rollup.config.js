@@ -5,5 +5,6 @@ export default {
   dest: 'dist/vuea.js',
   format: 'umd',
   moduleName: 'Vuea',
+  exports: 'named',
   plugins: [buble()]
 }

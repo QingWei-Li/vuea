@@ -24,3 +24,5 @@ export function install (Vue) {
   Vue.drop = Vue.prototype.$drop = drop
   Vue.replace = Vue.prototype.$replace = replace
 }
+
+export default install

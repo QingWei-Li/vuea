@@ -34,6 +34,7 @@ function install (Vue) {
 exports.drop = drop;
 exports.replace = replace;
 exports.install = install;
+exports['default'] = install;
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
